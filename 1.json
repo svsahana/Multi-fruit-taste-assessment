@@ -1,0 +1,44 @@
+{
+    "apple": {
+        "medical_details": "Ripe green apples are rich in fiber and antioxidants, aiding digestion and boosting immunity while providing natural energy."
+    },
+    "banana": {
+        "medical_details": "jolly jolly"
+    },
+    "mandarine": {
+        "medical_details": "The Ripe oranges are rich in vitamin C, boost immunity, improve skin health, and support heart function while providing a refreshing citrus flavor."
+    },
+    "rambutan": {
+        "medical_details": "Rambutan is rich in vitamin C, fiber, and antioxidants. It helps in boosting immunity and improving digestion."
+    },
+    "pineapple": {
+        "medical_details": "Pineapple is packed with vitamin C and bromelain, which aids digestion, reduces inflammation, and supports immunity."
+    },
+    "hard_kiwi": {
+        "medical_details": "Kiwi is high in vitamin C, vitamin K, and fiber. It promotes heart health, digestion, and improves skin health."
+    },
+    "avocado": {
+        "medical_details": "Avocado is rich in healthy fats, fiber, and potassium. It supports heart health, improves digestion, and enhances brain function."
+    },
+    "dragonfruit": {
+        "medical_details": "Dragon fruit is full of antioxidants, fiber, and vitamin C. It supports gut health, boosts immunity, and improves skin health."
+    },
+    "papaya": {
+        "medical_details": "Papaya contains papain, vitamin C, and vitamin A. It aids digestion, boosts immunity, and promotes eye health."
+    },
+    "mango": {
+        "medical_details": "Mango is high in vitamin C, vitamin A, and fiber. It enhances immunity, supports eye health, and improves digestion."
+    },
+    "indian_strawberry": {
+        "medical_details": "Strawberries are rich in antioxidants, vitamin C, and fiber. They support heart health, boost immunity, and improve skin health."
+    },
+    "grape": {
+        "medical_details": "Ripe grapes are rich in antioxidants, vitamin C, and resveratrol. They support heart health, improve brain function, and boost immunity."
+    },
+    "guava": {
+        "medical_details": "Guava is packed with vitamin C, fiber, and antioxidants. It helps in digestion, boosts immunity, and supports heart health."
+    },
+    "mabolo": {
+        "medical_details": "Mabolo, also known as velvet apple, is high in fiber, vitamin A, and iron. It promotes digestive health, improves vision, and supports red blood cell production."
+    }
+}

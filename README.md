@@ -4,7 +4,7 @@ An AI-powered web application developed to assess the ripeness level of various 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Detects fruit ripeness using ViT (Vision Transformer) model  
 - Supports live camera input and image upload  
